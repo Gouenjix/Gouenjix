@@ -1,6 +1,6 @@
 Hey, I'm Vikram 👋
 
-Embedded Systems Developer with 2+ years of experience writing firmware and talking to hardware.
+Embedded Systems Developer with 2+ years of experience writing firmware.
 
 I work with microcontrollers, write bare-metal C, and enjoy solving problems at the register level.<br>
 If it runs close to the metal, I'm interested.
