@@ -1,12 +1,12 @@
-Hey, I'm Vikram 👋
+## Hey, I'm Vikram 👋
 
-Embedded Systems Developer with 2+ years of experience writing firmware.
+*Embedded Systems Developer with 2+ years of experience writing firmware.*
 
 I work with microcontrollers, write bare-metal C, and enjoy solving problems at the register level.<br>
-If it runs close to the metal, I'm interested.
+*If it runs close to the metal, I'm interested.*
 
 My main stack is Embedded C and C++, with FreeRTOS for RTOS-based work.<br>
-I work across AVR, STM32, ESP, PIC, 8051, Raspberry Pi (Pico, Zero) & Milk-V micro-controller boards.<br>
-For debugging, JTAG/GDB and Logic Analyzer are my go-to tools.
+I have worked across AVR, STM32, ESP, PIC, 8051, Raspberry Pi (Pico, Zero) & Milk-V micro-controller boards.<br>
+For Debugging, JTAG/GDB and Logic Analyzer are my go-to tools.
 
-Currently in the Automotive domain, and open to Firmware / Embedded Software roles.
+Currently working in the Automotive domain, and open to Firmware / Embedded Software roles.
